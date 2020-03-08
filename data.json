@@ -9,188 +9,16 @@
             "name": "shawflying"
         },
         {
-            "id": "2",
-            "name": "JpMCarrilho"
-        },
-        {
-            "id": "3",
-            "name": "SuhwanCha"
-        },
-        {
-            "id": "4",
-            "name": "sunilangadi2"
-        },
-        {
-            "id": "5",
-            "name": "j6montoya"
-        },
-        {
-            "id": "6",
-            "name": "sfate"
-        },
-        {
-            "id": "7",
-            "name": "amituuush"
-        },
-        {
-            "id": "8",
-            "name": "mauroherlein"
-        },
-        {
-            "id": "9",
-            "name": "ParadoxZero"
-        },
-        {
-            "id": "10",
-            "name": "llazzaro"
-        },
-        {
-            "id": "11",
-            "name": "beeva-manueldepaz"
-        },
-        {
-            "id": "12",
-            "name": "damianmuti"
-        },
-        {
-            "id": "13",
-            "name": "apobbati"
-        },
-        {
-            "id": "14",
-            "name": "hwlv"
-        },
-        {
-            "id": "17332",
-            "name": "goldhand"
-        },
-        {
-            "id": "18876",
-            "name": "josh"
-        },
-        {
-            "id": "4950",
-            "name": "YuHyun7"
-        },
-        {
-            "id": "10487",
-            "name": "koistya"
-        },
-        {
-            "id": "12865",
-            "name": "Uner4s"
-        },
-        {
-            "id": "12775",
-            "name": "rockchalkwushock"
-        },
-        {
-            "id": "9342",
-            "name": "KnightBaron"
-        },
-        {
             "id": "23977",
             "name": "airtoxin"
-        },
-        {
-            "id": "36067",
-            "name": "AlainMuller"
         },
         {
             "id": "34526",
             "name": "ghosind"
         },
         {
-            "id": "27313",
-            "name": "samdenty"
-        },
-        {
-            "id": "15143",
-            "name": "mercyblitz"
-        },
-        {
-            "id": "15144",
-            "name": "hussein-aitlahcen"
-        },
-        {
-            "id": "15145",
-            "name": "shubhpatel108"
-        },
-        {
-            "id": "19345",
-            "name": "Stiivi"
-        },
-        {
             "id": "2370",
             "name": "jasondu"
-        },
-        {
-            "id": "14683",
-            "name": "chaoslawful"
-        },
-        {
-            "id": "29982",
-            "name": "dead-horse"
-        },
-        {
-            "id": "21142",
-            "name": "fengmk2"
-        },
-        {
-            "id": "20363",
-            "name": "atian25"
-        },
-        {
-            "id": "23830",
-            "name": "778477"
-        },
-        {
-            "id": "34035",
-            "name": "iceopen"
-        },
-        {
-            "id": "6067",
-            "name": "danalex97"
-        },
-        {
-            "id": "19720",
-            "name": "benjaminaaron"
-        },
-        {
-            "id": "20183",
-            "name": "panpan2"
-        },
-        {
-            "id": "18029",
-            "name": "graykode"
-        },
-        {
-            "id": "23358",
-            "name": "hammadkhann"
-        },
-        {
-            "id": "29557",
-            "name": "qinix"
-        },
-        {
-            "id": "12102",
-            "name": "dahlia"
-        },
-        {
-            "id": "31890",
-            "name": "dalinhuang99"
-        },
-        {
-            "id": "34957",
-            "name": "Daichou"
-        },
-        {
-            "id": "27450",
-            "name": "donnemartin"
-        },
-        {
-            "id": "27803",
-            "name": "nfultz"
         }
     ],
 
@@ -206,22 +34,6 @@
         {
             "source": "1",
             "target": "2370"
-        },
-        {
-            "source": "1",
-            "target": "14683"
-        },
-        {
-            "source": "1",
-            "target": "29982"
-        },
-        {
-            "source": "1",
-            "target": "21142"
-        },
-        {
-            "source": "1",
-            "target": "20363"
         }
     ]
 }
