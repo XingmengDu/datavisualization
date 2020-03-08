@@ -1,39 +1,43 @@
 ﻿{
     "nodes": [
         {
-            "id": "0",
-            "name": "Eiryyy"
+
+            "name": "Eiryyy",
+            "group": "0"
         },
         {
-            "id": "1",
-            "name": "shawflying"
+            "name": "shawflying",
+            "group": "1"
         },
         {
-            "id": "23977",
-            "name": "airtoxin"
+            "name": "airtoxin",
+            "group": "23977"
         },
         {
-            "id": "34526",
-            "name": "ghosind"
+            "name": "ghosind",
+            "group": "34526"
         },
         {
-            "id": "2370",
-            "name": "jasondu"
+            "name": "jasondu",
+            "group": "2370"
         }
     ],
 
     "links": [
         {
             "source": "0",
-            "target": "23977"
+            "target": "23977",
+                "weight": 0
         },
         {
             "source": "1",
-            "target": "34526"
+            "target": "34526",
+            "weight": 0
         },
         {
             "source": "1",
-            "target": "2370"
+            "target": "2370",
+            "weight": 0
         }
     ]
 }
