@@ -1,15 +1,18 @@
 {"nodes":[
     {
-        "id": "0",
-        "name": "Eiryyy"
+        
+         "name": "Eiryyy",
+        "Group": "0"
     },
     {
-        "id": "23977",
-        "name": "soumik12345"
+         "name": "soumik12345",
+         "Group": "23977"
+    },
     },
     {
-        "id": "37699",
-        "name": "caseycavanagh"
+        "name": "caseycavanagh",
+        "Group": "37699"
+    },
     }
 ],
 "links":[
